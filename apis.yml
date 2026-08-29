@@ -11,6 +11,9 @@ description: Inventa is a Brazilian B2B commerce platform — a "B2B commerce cl
   connector integrations for its customers rather than publishing a public developer portal, so it has
   no public API artifacts as of this enrichment pass.
 url: https://raw.githubusercontent.com/api-evangelist/inventa/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Inventa configures the API and connector integrations for its customers rather than publishing a public developer portal, so it has no public API artifacts as of this enrichment pass."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
