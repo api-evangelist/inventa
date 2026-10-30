@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Inventa is a company surfaced as a portfolio company of a16z, battery-ventures, greylock and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Inventa is a Brazilian B2B commerce platform — a "B2B commerce cloud" — that integrates technology, credit, and logistics on a single platform so brands and distributors can scale wholesale sales in Brazil. Its products include a sales platform that syncs catalogs, orders, inventory, and prices across B2B e-commerce sites and marketplaces via ERP integrations; a field-sales mobile app for sellers; automated credit analysis and approval; shared distribution-center logistics (OMS/WMS/TMS) with fulfillment and 72-hour delivery in the São Paulo region; multichannel customer support; and business-intelligence dashboards. Solution packages span Fulfillment, Response, FullService, and a pay-per-use OnDemand model. The company is headquartered in São Paulo. Inventa configures the API and connector integrations for its customers rather than publishing a public developer portal, so it has no public API artifacts as of this enrichment pass.
 
-Backed by: a16z, battery-ventures, greylock — https://inventa.com.br/
+**Areas:** Company · B2B · Commerce · Marketplace · Wholesale · Logistics · Fulfillment · Credit · Brazil · E-Commerce
+
+## Inventa on APIs.io
+
+Everything profiled for Inventa is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/inventa/](https://apis.io/providers/inventa/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Inventa Domain Security](https://apis.io/security/inventa/inventa-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://inventa.com.br/)
+- [Blog](https://inventa.com.br/blog)
+- [Privacy policy](https://inventa.com.br/politica-de-privacidade)
+
+## API Evangelist rating
+
+**Kin Score 6.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/inventa/](https://apis.io/providers/inventa/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Inventa: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/inventa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
